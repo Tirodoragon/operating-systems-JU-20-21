@@ -1,0 +1,4 @@
+nazwa
+Zawartosc standardowego wejscia
+standardowego
+wejscia

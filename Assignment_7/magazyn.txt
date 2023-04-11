@@ -1,0 +1,5 @@
+Zadanie 3. Producent i konsument
+
+Przy pomocy pamieci dzielonej oraz semaforow standardu POSIX zaimplementowac problem "Producenta i Konsumenta" dla N-elementowego bufora cyklicznego (tzn. po dojsciu do konca bufora wracamy na jego poczatek)
+umieszczonego w pamieci dzielonej, gdzie elementem bufora jest pewna ustalona porcja bajtow. Dla zademonstrowania, ze nie doszlo do utraty ani zwielokrotnienia towaru, niech Producent pobiera "surowiec"
+(np. porcje bajtow lub liczby typu int) z pliku tekstowego magazyn.txt i wstawia go jako towar do bufora, a Konsument niech umieszcza pobrany z bufora towar w innym pliku tekstowym schowek.txt.
