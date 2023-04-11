@@ -1,0 +1,5 @@
+Zadanie 1. Potoki nienazwane (prodkons.c)
+
+Przy pomocy potokow nienazwanych systemu UNIX zaimplementowac problem Producenta i Konsumenta. Dla zademonstrowania, ze nie doszlo do utraty ani zwielokrotnienia towaru, niech Producent pobiera surowiec
+(np. porcje bajtow) z pliku tekstowego magazyn.txt i wstawia go jako towar do potoku, a Konsument niech umieszcza pobrany z potoku towar w innym pliku tekstowym schowek.txt.
+
