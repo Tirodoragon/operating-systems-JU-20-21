@@ -1,0 +1,4 @@
+Zadanie 1. Potoki nazwane (producent.c, konsument.c i fifo.c)
+
+Przy pomocy potokow nazwanych systemu UNIX zaimplementowac problem Producenta i Konsumenta z zestawu 4. Zaimplementowac producenta i konsumenta w dwoch oddzielnych programach (funkcjach main()). Kazdy z nich
+niech przez argumenty wywolania pobiera nazwe potoku oraz nazwe odpowiedniego pliku tekstowego.
